@@ -21,8 +21,8 @@ Run the project project port number is 8090
 2. Run the project
 
 Front end：
-1. Open the csci651-web (project front end) project in IDEA, and run npm install in the terminal.
+1. Open the csci651-web (project front end) project in IDEA, and run "npm install" in the terminal.
 2. Modify the vue.config.js file and replace the IP address with the current IP
 3. Modify the src/main.js file, and replace the IP address with the current IP
 4. Enter the npm run dev command in the terminal to start the project.
-5. Enter http://current IP:8080/ in the web page
+5. Enter http://Your Current IP:8080/ in the web page
