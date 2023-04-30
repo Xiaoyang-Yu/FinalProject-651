@@ -13,7 +13,8 @@ Development tools: IDEA
 Development framework: Springboot
 Packaging tool: maven
 
-Run:
+How to run this project:
+
 Backend
 1. IDEA opens the partmaintenance (project backend) project and loads the pom.xml dependency. (If it cannot start normally, please check File->Project Structure. Change all jdk versions to 8)
 Run the project project port number is 8090
