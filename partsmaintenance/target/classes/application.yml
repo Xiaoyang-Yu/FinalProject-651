@@ -1,0 +1,5 @@
+server:
+  port: 8090
+  compression:
+    enabled: true
+    mime-types: application/json,application/xml,application/javascript,text/html,text/css,text/xml,text/plain
